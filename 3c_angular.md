@@ -19,7 +19,7 @@ ng new ass3
 cd ass3
 ```
 
-## Step 3: Configure the Root Application Component
+## Step 2: Configure the Root Application Component
 **1. Open `src/app/app.html`** and replace the content with:
 ```html
 <h2>{{title()}}</h2>
@@ -56,7 +56,7 @@ export class App {
 }
 ```
 
-## Step 7: Run Application
+## Step 3: Run Application
 Open your terminal inside the `ass3` project folder and run:
 
 ```bash
