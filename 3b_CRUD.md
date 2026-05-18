@@ -10,7 +10,7 @@ In your assignment folder, create the following files and folders:
 ## Step 2: Add Configuration (`.env`)
 Copy this code into your `.env` file and make sure your MongoDB Compass/Cluster is connected:
 ```env
-MONGO_URI=mongodb+srv://abhinav31102004_db_user:KLerckTQf7E4Qxpr@cluster31.vty84zb.mongodb.net/userDB?appName=Cluster31
+MONGO_URI=mongodb://localhost:27017
 ```
 
 ## Step 3: Add Code to `server.js`
